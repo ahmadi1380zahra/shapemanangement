@@ -1,0 +1,11 @@
+C:\Users\zizig\source\repos\ShapesManangement\ShapesManangement.Models\bin\Debug\net8.0\ShapesManangement.Models.deps.json
+C:\Users\zizig\source\repos\ShapesManangement\ShapesManangement.Models\bin\Debug\net8.0\ShapesManangement.Models.dll
+C:\Users\zizig\source\repos\ShapesManangement\ShapesManangement.Models\bin\Debug\net8.0\ShapesManangement.Models.pdb
+C:\Users\zizig\source\repos\ShapesManangement\ShapesManangement.Models\obj\Debug\net8.0\ShapesManangement.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zizig\source\repos\ShapesManangement\ShapesManangement.Models\obj\Debug\net8.0\ShapesManangement.Models.AssemblyInfoInputs.cache
+C:\Users\zizig\source\repos\ShapesManangement\ShapesManangement.Models\obj\Debug\net8.0\ShapesManangement.Models.AssemblyInfo.cs
+C:\Users\zizig\source\repos\ShapesManangement\ShapesManangement.Models\obj\Debug\net8.0\ShapesManangement.Models.csproj.CoreCompileInputs.cache
+C:\Users\zizig\source\repos\ShapesManangement\ShapesManangement.Models\obj\Debug\net8.0\ShapesManangement.Models.dll
+C:\Users\zizig\source\repos\ShapesManangement\ShapesManangement.Models\obj\Debug\net8.0\refint\ShapesManangement.Models.dll
+C:\Users\zizig\source\repos\ShapesManangement\ShapesManangement.Models\obj\Debug\net8.0\ShapesManangement.Models.pdb
+C:\Users\zizig\source\repos\ShapesManangement\ShapesManangement.Models\obj\Debug\net8.0\ref\ShapesManangement.Models.dll
